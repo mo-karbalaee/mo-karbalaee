@@ -1,15 +1,10 @@
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mo-karbalaee&theme=default"
-     width=400/>
-     
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mo-karbalaee&" alt="mo-karbalaee" width=400/> 
-
-
----
-### ⚒️ Tools 
-
-I'm actively using and learning more about the following tools. 
-
-![PyTorch](https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21~bgwhite.svg)
-![Python](https://www.vectorlogo.zone/logos/python/python-ar21~bgwhite.svg)
-![Numpy](https://www.vectorlogo.zone/logos/numpy/numpy-ar21~bgwhite.svg)
-![OpenCV](https://www.vectorlogo.zone/logos/opencv/opencv-ar21~bgwhite.svg)
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mo-karbalaee&theme=default" width="100%"/>
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mo-karbalaee&" width="100%"/>
+    </td>
+  </tr>
+</table>
