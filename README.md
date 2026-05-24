@@ -1,7 +1,8 @@
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mo-karbalaee&" alt="mo-karbalaee" width=500/> 
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mo-karbalaee&theme=default"
-     width=500/>
+     width=600/>
+     
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mo-karbalaee&" alt="mo-karbalaee" width=600/> 
+
 
 ---
 ### ⚒️ Tools 
